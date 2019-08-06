@@ -16,6 +16,10 @@ Life Aquatic as the Belafonte
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/belafonte.png" width="300">
 
+and as Zissou
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/stevesie.png" width="300">
+
 
 
 
