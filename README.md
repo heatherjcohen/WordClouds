@@ -2,7 +2,7 @@
 
 
 
-Fantastic Mr. Fox as Mr. Dox
+Fantastic Mr. Fox as Mr. Fox
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/foxy.png" width="300">
 
