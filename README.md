@@ -25,5 +25,5 @@ and as Zissou
 
 Emperor's New Groove as a llama
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/lllaaaama.png" width="300">
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/lllaaaama2.png" width="300">
 
