@@ -1,10 +1,12 @@
 # WordClouds
 
-Emperor's New Groove as a llama
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/lllaaaama.png" width="300">
 
-Fantastic Mr. Fox as the Wolf
+Fantastic Mr. Fox as Mr. Dox
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/foxy.png" width="300">
+
+and as the Wolf
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/wolf.png" width="300">
 
@@ -21,5 +23,7 @@ and as Zissou
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/stevesie.png" width="300">
 
 
+Emperor's New Groove as a llama
 
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/lllaaaama.png" width="300">
 
