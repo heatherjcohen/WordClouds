@@ -8,6 +8,10 @@ Hitchhiker's Guide to the Galaxy as Marvin the Paranoid Android:
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizScreen%20Shot%202019-08-06%20at%206.10.06%20PM.png.png" width="300">
 
+Pride and Prejudice as Jane Austen's Silhoutte 
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizd4fc9c846938291baec8259da3a62096.jpg" width="300">
+
 Fantastic Mr. Fox as Mr. Fox
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/foxy.png" width="300">
