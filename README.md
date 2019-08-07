@@ -2,7 +2,7 @@
 
 Hitchhiker's Guide to the Galaxy as logo
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizHitchHikersGuideBlackSS.png.png" width="300">
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizHitchHikersGuideBlackSS.png" width="300">
 
 Hitchhiker's Guide to the Galaxy as Marvin the Paranoid Android:
 
