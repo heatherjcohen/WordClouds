@@ -1,6 +1,12 @@
 # WordClouds
 
+Hitchhiker's Guide to the Galaxy as logo
 
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizHitchHikersGuideBlackSS.png.png" width="300">
+
+Hitchhiker's Guide to the Galaxy as Marvin the Paranoid Android:
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizScreen%20Shot%202019-08-06%20at%206.10.06%20PM.png.png" width="300">
 
 Fantastic Mr. Fox as Mr. Fox
 
