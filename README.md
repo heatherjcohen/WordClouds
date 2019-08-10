@@ -12,6 +12,10 @@ Pride and Prejudice as Jane Austen's Silhoutte
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/vizd4fc9c846938291baec8259da3a62096.jpg" width="300">
 
+and as Elizabeth and Mr. Darcy
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/viz1046.png" width="300>
+
 Sense and Sensibility as a piano
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/viz302.png" width="300">
