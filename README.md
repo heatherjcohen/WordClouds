@@ -16,6 +16,10 @@ Sense and Sensibility as a piano
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/viz302.png" width="300">
 
+Emma as Emma
+
+<img src="https://github.com/heatherjcohen/WordClouds/blob/master/viz4939.png" width="300">
+
 Fantastic Mr. Fox as Mr. Fox
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/foxy.png" width="300">
