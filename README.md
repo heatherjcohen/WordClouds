@@ -53,7 +53,5 @@ and as Zissou
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/stevesie.png" width="300">
 
 
-Emperor's New Groove as a llama
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/lllaaaama2.png" width="300">
 
