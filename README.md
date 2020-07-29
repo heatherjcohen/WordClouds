@@ -52,6 +52,8 @@ and as Zissou
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/stevesie.png" width="300">
 
+Emperor's New Groove as Yzma
 
+<img src= https://github.com/heatherjcohen/WordClouds/blob/master/viz854.png" width="300">
 
 
