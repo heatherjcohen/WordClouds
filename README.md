@@ -33,17 +33,13 @@ Fantastic Mr. Fox as Mr. Fox
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/foxy.png" width="500">
 
-and as the Wolf
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/wolf.png" width="500">
 
 Rushmore poster
 
 <img src="https://github.com/heatherjcohen/WordClouds/blob/master/whatdidyoueverdo.png" width="500">
 
-Life Aquatic as the Belafonte
 
-<img src="https://github.com/heatherjcohen/WordClouds/blob/master/belafonte.png" width="500">
 
 and as Zissou
 
